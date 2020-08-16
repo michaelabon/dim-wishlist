@@ -1,2 +1,2 @@
 // test test 
-dimwishlist:item=-2342444
+dimwishlist:item=-1216130969&perks=460017080

@@ -339,6 +339,10 @@ dimwishlist:item=3682803680&perks=1482024992,3142289711,2946784966,1015611457#no
 dimwishlist:item=3682803680&perks=202670084,3142289711,2946784966,1015611457#notes:|tags:pvp
 dimwishlist:item=3682803680&perks=1840239774,3142289711,2946784966,1015611457#notes:|tags:pvp
 
+// Seventh Seraph VY-7
+//notes:Abon (PvE): I honestly just want any rolls of this
+dimwishlist:item=766323545
+
 // Borrowed Time
 //notes:Abon (PvE): High damage solar SMG, with high recoil. So, I'm aiming for increased stability perks and close-up combat damage-increase perks. Drops only from Gambit!|tags:pve
 dimwishlist:item=875848769&perks=1840239774,1885400500,4071163871,4104185692,384158423

@@ -409,3 +409,6 @@ dimwishlist:item=3616586446&perks=3250034553,679225683,3161816588,47981717,26972
 dimwishlist:item=3616586446&perks=1482024992,679225683,3161816588,47981717,2697220197
 
 
+// The Palindrome (Adept)
+//notes:Abon (PvE): Kackis' preferred perks|tags:pve
+dimwishlist:item=1481892490&perks=3643424744,4049631843

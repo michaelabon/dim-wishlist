@@ -416,3 +416,13 @@ dimwishlist:item=1481892490&perks=3643424744,4049631843
 // Shadow Price (Adept)
 //notes:Abon (PvE): Kackis' preferred perks|tags:pve
 dimwishlist:item=2147010335&perks=3643424744,4049631843
+
+
+// Braytech Werewolf
+//notes:Cole (PvE): Ideal for Grandmasters|tags:PvE
+dimwishlist:item=528834068&perks=1354429876,1546637391,178753455
+dimwishlist:item=528834068&perks=1354429876,1546637391,684616255
+dimwishlist:item=528834068&perks=1354429876,1546637391,758092021
+dimwishlist:item=528834068&perks=1354429876,1546637391,2697220197
+
+

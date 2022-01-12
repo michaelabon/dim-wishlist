@@ -442,4 +442,11 @@ dimwishlist:item=1392919471&perks=839105230,106909392,1523832109,3592538738
 
 
 
+// The Comedian (Adept)
+//notes:Jarv (PvE): No need to reload, quickly regain your super. https://www.youtube.com/watch?v=JsyDVKTXvcE|tags:pve
+dimwishlist:item=2443900757&perks=1820235745,2726471870
+
+
+
+
 

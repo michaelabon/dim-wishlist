@@ -448,6 +448,9 @@ dimwishlist:item=1028582252&perks=1820235745,2726471870
 dimwishlist:item=2443900757&perks=1820235745,2726471870
 
 
-
-
-
+// Eyasluna
+//notes:Abon (PvP): These seem like fun rolls.|tags:pvp
+dimwishlist:item=235827225&perks=3108830275,124408337
+dimwishlist:item=235827225&perks=247725512,124408337
+dimwishlist:item=235827225&perks=3108830275,3523296417
+dimwishlist:item=235827225&perks=247725512,3523296417

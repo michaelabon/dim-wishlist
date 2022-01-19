@@ -454,3 +454,9 @@ dimwishlist:item=235827225&perks=3108830275,124408337
 dimwishlist:item=235827225&perks=247725512,124408337
 dimwishlist:item=235827225&perks=3108830275,3523296417
 dimwishlist:item=235827225&perks=247725512,3523296417
+
+// Any bow with Adagio and Archer's Tempo
+//notes:Em (PvE): Adagio gives you better damage, Archer's Tempo completely negates the slowdown from Adagio.|tags:pve
+dimwishlist:item=-69420&perks=3673922083,201365942
+
+
